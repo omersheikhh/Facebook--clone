@@ -9,8 +9,8 @@ body{
 }
 
 .navigator {
-    min-height: 6.8vh;
-    background-color: tomato;
+    min-height: 6.5vh;
+    background-color: #FFFFFF;
     position:sticky;
     top: 0;
     width: 100vw;
